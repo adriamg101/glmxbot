@@ -1,0 +1,9 @@
+{
+  "payment_methods_available": "Aceptamos los siguientes métodos de pago: tarjeta de crédito/débito (Visa, MasterCard), PayPal, transferencia bancaria y Bizum. Todos los pagos se realizan en un entorno seguro.",
+  "payment_secure": "Tu seguridad es nuestra prioridad. Utilizamos pasarelas de pago seguras y protegidas con cifrado SSL para garantizar la protección de tus datos bancarios.",
+  "payment_on_delivery": "Sí, puedes pagar contra reembolso, pero esta opción puede tener un coste adicional y solo está disponible en algunos países.",
+  "shipping_methods": "Ofrecemos envío estándar y exprés a través de empresas de mensajería como SEUR, MRW y Correos Express. Podrás elegir tu método durante el proceso de compra.",
+  "shipping_times": "Los tiempos de envío varían según la ubicación y el método seleccionado. El envío estándar suele tardar de 2 a 4 días laborables.",
+  "shipping_costs": "Los costes de envío dependen del destino y del peso del pedido. El importe exacto se calculará en el carrito antes de finalizar la compra.",
+  "shipping_tracking": "Una vez que tu pedido sea enviado, recibirás un correo con un número de seguimiento para que puedas ver el estado de tu envío en todo momento."
+}

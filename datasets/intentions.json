@@ -1,0 +1,399 @@
+{
+  "comparar_productos": [
+    "Quiero comparar productos",
+    "¿Puedo ver una comparación entre dos cascos?",
+    "Compara el casco AGV y el Shoei",
+    "Necesito saber las diferencias entre dos modelos",
+    "¿Cuál es mejor entre estos dos cascos?",
+    "Muéstrame una comparativa entre botas",
+    "Comparación de cascos para carretera"
+  ],
+  "hacer_presupuesto": [
+    "Me puedes hacer un presupuesto con botas, cascos i guantes?",
+    "Tengo 1000 euros como maximo presupuesto, que recomiendas comprar?",
+    "Que cascos i botas me recomiendas por no mas de 700€?",
+    "Con un presupuesto de 900€, ¿qué chaqueta y casco me recomiendas?",
+    "¿Qué botas y traje completo puedo comprar con 1500 euros?",
+    "Solo tengo 500€, ¿qué guantes y pantalones puedo conseguir?",
+    "Ahora con 5000$",
+    "Y con 200€?"
+  ],
+  "consultar_disponibilidad": [
+    "¿Tienen el casco Shoei en talla M?",
+    "Quiero saber si hay monos de cuero disponibles",
+    "¿Está en stock el casco AGV K1?",
+    "¿Puedo comprar botas talla 42 ahora?",
+    "¿Tienen existencia del modelo Dainese?",
+    "¿Dispones del mono Alpinestars?",
+    "¿Hay stock de guantes de invierno?"
+  ],
+  "informacion_producto": [
+    "Dame detalles del casco Shoei GT-Air 2",
+    "¿Qué características tiene este mono?",
+    "Muéstrame la ficha del casco AGV",
+    "Quiero saber más del producto",
+    "¿Cómo es el interior del casco?",
+    "¿Qué protecciones trae el mono Dainese?",
+    "Necesito info técnica del casco"
+  ],
+  "seguimiento_pedido": [
+    "¿Dónde va mi pedido?",
+    "Quiero rastrear mi pedido",
+    "Estado del envío por favor",
+    "¿Cuándo llega mi compra?",
+    "Necesito el seguimiento del pedido",
+    "¿Ya se envió mi pedido?",
+    "¿Mi pedido ya salió?"
+  ],
+  "devolucion_producto": [
+    "Quiero cambiar mis guantes por otros de otra marca",
+    "Busco una chaqueta parecida pero de otro color",
+    "¿Qué botas me recomiendas como reemplazo?",
+    "¿Tienen un casco similar pero más barato?",
+    "Quiero reemplazar mi airbag por uno de otra marca",
+    "¿Puedes ayudarme a encontrar un sustituto para mis pantalones?",
+    "Necesito un reemplazo para mi casco"
+  ],
+  "recomendar_talla": [
+    "¿Qué talla debo elegir si mido 1.80?",
+    "Mi cabeza mide 59 cm, ¿qué talla uso?",
+    "¿Qué talla de guantes me recomiendas?",
+    "Ayúdame a elegir la talla de un casco",
+    "No sé qué talla necesito",
+    "¿Qué talla me quedaría bien?",
+    "Busco la talla adecuada para mi altura y peso"
+  ],
+  "account_register": [
+    "¿Cómo crear una cuenta?",
+    "¿Qué pasos debo seguir para registrarme?",
+    "¿Dónde puedo crear una cuenta nueva?",
+    "¿Cómo me doy de alta en el sitio?",
+    "¿Qué necesito para abrir una cuenta?",
+    "¿Cuál es el proceso para registrarme como usuario?",
+    "¿Dónde se hace el registro de usuario?"
+  ],
+  "account_add_motorcycle": [
+    "¿Cómo añadir mis motos a mi garaje, y por qué debo añadirla?",
+    "¿Cómo agrego mis motos a mi garaje y qué beneficios tiene hacerlo?",
+    "¿Cuál es el procedimiento para añadir mis motocicletas al garaje?",
+    "¿Dónde se cargan las motos en mi perfil?",
+    "¿Para qué sirve vincular mis motos a mi cuenta?",
+    "¿Es obligatorio registrar mis motos en el garaje virtual?",
+    "¿Cómo incluyo mis motos en el sistema?"
+  ],
+  "account_edit": [
+    "¿Puedo modificar los datos una vez creada mi cuenta?",
+    "¿Es posible editar la información de mi cuenta después de registrarme?",
+    "¿Se pueden cambiar los datos de usuario más adelante?",
+    "¿Cómo actualizo mis datos personales en la cuenta?",
+    "¿Puedo corregir errores en el perfil una vez creado?",
+    "¿Se permite modificar mi información tras crear la cuenta?",
+    "¿Cómo edito mis datos luego del registro?"
+  ],
+  "account_add_directions": [
+    "¿Cómo añadir direcciones a mi cuenta?",
+    "¿Qué debo hacer para añadir nuevas direcciones a mi perfil?",
+    "¿Dónde se agregan las direcciones en mi cuenta?",
+    "¿Cómo incorporo más direcciones a mi cuenta?",
+    "¿Puedo guardar varias direcciones en mi perfil?",
+    "¿Es posible registrar múltiples direcciones?",
+    "¿Cuál es la forma de añadir direcciones adicionales?"
+  ],
+  "account_send_other_direction": [
+    "¿Puedo enviar pedidos a otras direcciones?",
+    "¿Se puede enviar pedidos a una dirección distinta?",
+    "¿Cómo envío mis compras a otra dirección?",
+    "¿Es posible realizar entregas a lugares diferentes?",
+    "¿Puedo registrar una dirección de envío diferente?",
+    "¿Cómo cambio la dirección de entrega de un pedido?",
+    "¿Permiten mandar los pedidos a otros domicilios?"
+  ],
+  "account_change_access_key": [
+    "¿Cómo cambiar mi contraseña?",
+    "¿Dónde cambio mi clave de acceso?",
+    "¿Cómo se modifica la contraseña de mi cuenta?",
+    "¿Cuál es el procedimiento para cambiar la contraseña?",
+    "¿Es posible actualizar mi contraseña desde el perfil?",
+    "¿Dónde encuentro la opción para cambiar mi clave?",
+    "¿Cómo puedo establecer una nueva contraseña?"
+  ],
+  "account_forgotten_password": [
+    "¿Qué hago si olvidé mi contraseña o quiero cambiarla?",
+    "¿Dónde puedo restablecer o cambiar mi clave de acceso?",
+    "¿Cómo recupero mi contraseña o la modifico?",
+    "¿Olvidaste tu clave? ¿Necesitas cambiarla?",
+    "¿Cómo solicitar un cambio de contraseña?",
+    "¿Qué opciones tengo si no recuerdo mi clave o quiero actualizarla?"
+  ],
+  "account_purchase_history": [
+    "¿Cómo puedo realizar un seguimiento de mi historial de pedidos?",
+    "¿Cómo veo el historial de mis pedidos anteriores?",
+    "¿Dónde consulto mis compras pasadas?",
+    "¿Puedo revisar las órdenes que he hecho antes?",
+    "¿Existe un historial de pedidos en mi cuenta?",
+    "¿Cómo acceder al seguimiento de mis compras?",
+    "¿Dónde reviso mis pedidos anteriores?"
+  ],
+  "account_delete": [
+    "¿Cómo borrar mi cuenta de cliente?",
+    "¿Qué debo hacer para eliminar mi cuenta?",
+    "¿Cómo se da de baja una cuenta de usuario?",
+    "¿Puedo cerrar mi cuenta de manera permanente?",
+    "¿Dónde solicito la eliminación de mi cuenta?",
+    "¿Cómo cancelo y elimino mi perfil?",
+    "¿Hay forma de borrar mi cuenta por completo?"
+  ],
+  "account_data_security": [
+    "¿Cómo puedo saber si mis datos personales están seguros? ¿Cuál es la política de privacidad y seguridad de la información? Información legal",
+    "¿Qué garantías tengo sobre la seguridad de mis datos?",
+    "¿Cómo protegen mi información personal?",
+    "¿Dónde puedo consultar la política de privacidad?",
+    "¿Qué medidas toman para cuidar mis datos?",
+    "¿Mi información está segura? ¿Tienen una política de privacidad clara?",
+    "¿Qué dicen sobre la seguridad y uso de mis datos personales?"
+  ],
+  "account_change_preferences": [
+    "¿Para qué sirve indicar mis preferencias? ¿Puedo modificarlas?",
+    "¿Cuál es la utilidad de indicar mis preferencias y se pueden cambiar?",
+    "¿Para qué sirven mis preferencias y puedo editarlas?",
+    "¿Es posible modificar las preferencias de mi cuenta?",
+    "¿Qué beneficio tiene establecer preferencias y son editables?",
+    "¿Por qué debo configurar mis preferencias? ¿Las puedo actualizar?",
+    "¿Se pueden ajustar mis preferencias luego del registro?"
+  ],
+  "account_subscribe_newsletter": [
+    "¿Cómo puedo darme de alta a vuestra newsletter?",
+    "¿Cómo me suscribo a vuestro boletín informativo?",
+    "¿Dónde me apunto a la newsletter?",
+    "¿Qué pasos debo seguir para recibir la newsletter?",
+    "¿Cómo recibir novedades por correo?",
+    "¿Dónde me registro para obtener su boletín?",
+    "¿Puedo darme de alta en su newsletter? ¿Cómo?"
+  ],
+  "account_benefits": [
+    "¿Qué ventajas tengo si me registro?",
+    "¿Qué beneficios obtengo al crear una cuenta?",
+    "¿Vale la pena registrarme? ¿Qué gano?",
+    "¿Qué ventajas hay por registrarse en el sitio?",
+    "¿Qué obtengo al hacerme usuario?",
+    "¿Por qué debería crear una cuenta con ustedes?",
+    "¿Qué beneficios tiene tener una cuenta registrada?"
+  ],
+  "account_benefits_fidelity": [
+    "¿Ofrecéis descuentos para compras al por mayor o programas de fidelización?",
+    "¿Ofrecen precios especiales por compras grandes o recompensas por fidelidad?",
+    "¿Tienen algún programa para compradores frecuentes o descuentos por volumen?",
+    "¿Existen promociones para compras al por mayor o para clientes fieles?",
+    "¿Qué descuentos hay si compro en grandes cantidades?",
+    "¿Ofrecen recompensas o ventajas por ser cliente habitual?",
+    "¿Disponen de algún sistema de puntos o fidelización?"
+  ],
+  "contact_client_support": [
+    "¿Cómo puedo contactar con atención al cliente?",
+    "¿Dónde puedo comunicarme con el servicio de atención al cliente?",
+    "¿Hay un número de atención al cliente?",
+    "Necesito hablar con atención al cliente, ¿cómo lo hago?",
+    "¿Cómo me comunico con el soporte al cliente?",
+    "Quiero contactar con alguien de atención al cliente"
+  ],
+  "contact_technical_assistance": [
+    "Asistencia técnica, necesito resolver una duda técnica sobre un producto",
+    "Tengo un problema técnico, ¿pueden ayudarme?",
+    "¿Cómo contacto con soporte técnico?",
+    "Necesito ayuda con el funcionamiento de un producto",
+    "¿Pueden asistirme con un fallo técnico?",
+    "Requiero asistencia técnica urgente"
+  ],
+  "contact_commercial_information": [
+    "Información comercial",
+    "¿Dónde encuentro información comercial?",
+    "Estoy interesado en una propuesta comercial",
+    "Me gustaría recibir detalles comerciales",
+    "¿Pueden darme información sobre sus servicios?"
+  ],
+  "gift_card_buy": [
+    "¿Cómo comprar una tarjeta regalo de GreenlandMX?",
+    "¿Dónde puedo comprar una tarjeta regalo?",
+    "Quiero regalar una tarjeta, ¿cómo lo hago?",
+    "¿Cómo se compra una tarjeta regalo en la web?",
+    "Necesito instrucciones para comprar una tarjeta regalo",
+    "¿Puedo comprar una tarjeta regalo online?"
+  ],
+  "gift_card_return": [
+    "¿Puedo devolver una tarjeta regalo?",
+    "¿Se puede devolver una tarjeta regalo?",
+    "¿Aceptan devoluciones de tarjetas regalo?",
+    "¿Es posible reembolsar una tarjeta regalo?",
+    "¿Puedo recuperar el dinero de una tarjeta regalo?",
+    "¿Qué pasa si quiero devolver la tarjeta regalo?"
+  ],
+  "gift_card_delivery_time": [
+    "¿Cuánto tiempo tarda en llegar al destinatario la tarjeta regalo?",
+    "¿Cuándo recibe el destinatario la tarjeta regalo?",
+    "¿En qué plazo llega la tarjeta regalo?",
+    "¿Cuánto tarda en enviarse la tarjeta regalo?",
+    "¿Tarda mucho en llegar la tarjeta regalo por email?",
+    "¿Recibe rápido el destinatario la tarjeta regalo?"
+  ],
+  "gift_card_wrong": [
+    "Me he equivocado en el email del destinatario, ¿puedo modificarlo?",
+    "¿Qué hago si puse mal el correo del destinatario?",
+    "¿Puedo corregir el email de la tarjeta regalo?",
+    "He puesto un email incorrecto, ¿se puede cambiar?",
+    "¿Puedo cambiar el destinatario después de la compra?",
+    "¿Hay forma de corregir el correo en una tarjeta regalo enviada?"
+  ],
+  "gift_card_balance": [
+    "¿Qué saldo puedo cargar en la tarjeta regalo?",
+    "¿Cuánto dinero puedo poner en la tarjeta regalo?",
+    "¿Hay montos fijos para las tarjetas regalo?",
+    "¿Puedo elegir el importe de la tarjeta regalo?",
+    "¿Cuál es el valor mínimo o máximo para regalar?",
+    "¿Qué cantidad se puede asignar a la tarjeta regalo?"
+  ],
+  "gift_card_buy_with_gift_card": [
+    "¿Puedo comprar una tarjeta regalo utilizando otra tarjeta regalo?",
+    "¿Es posible pagar una tarjeta regalo con otra?",
+    "¿Se puede usar una tarjeta regalo para comprar otra?",
+    "¿Puedo regalar usando otra tarjeta regalo como pago?",
+    "¿Aceptan tarjetas regalo para comprar nuevas?",
+    "¿Es válido el pago de tarjeta regalo con otra tarjeta regalo?"
+  ],
+  "gift_card_redeem": [
+    "¿Cómo canjear una tarjeta regalo de GreenlandMX?",
+    "¿Dónde se introduce el código de la tarjeta regalo?",
+    "¿Cómo uso una tarjeta regalo en una compra?",
+    "¿Qué pasos sigo para canjear la tarjeta regalo?",
+    "¿Cómo aplico el código de mi tarjeta regalo?",
+    "¿Dónde canjeo la tarjeta regalo online?"
+  ],
+  "gift_card_know_balance": [
+    "¿Cómo puedo saber el saldo de mi tarjeta regalo?",
+    "¿Dónde consulto el saldo de mi tarjeta regalo?",
+    "¿Cómo verificar cuánto me queda en la tarjeta regalo?",
+    "¿Puedo ver el saldo actual de mi tarjeta regalo?",
+    "¿Dónde miro el importe restante de mi tarjeta regalo?",
+    "¿Hay forma de consultar el saldo disponible?"
+  ],
+  "gift_card_insuficient": [
+    "Si el saldo de mi tarjeta regalo es insuficiente, ¿puedo pagar la diferencia con tarjeta de crédito o débito?",
+    "¿Qué pasa si la tarjeta regalo no cubre el total?",
+    "¿Puedo pagar el resto con tarjeta si mi tarjeta regalo no alcanza?",
+    "¿Se puede completar el pago con otra forma si la tarjeta regalo no cubre todo?",
+    "¿Me permite pagar una parte con tarjeta regalo y el resto con tarjeta?",
+    "¿La web acepta pagos mixtos con tarjeta regalo y tarjeta bancaria?"
+  ],
+  "gift_card_buy_product": [
+    "¿Puedo comprar cualquier producto con una tarjeta regalo?",
+    "¿Qué productos se pueden comprar con tarjeta regalo?",
+    "¿Hay restricciones con la tarjeta regalo?",
+    "¿Sirve la tarjeta regalo para todo el catálogo?",
+    "¿Puedo usar la tarjeta regalo en cualquier producto?",
+    "¿La tarjeta regalo tiene limitaciones de uso?"
+  ],
+  "gift_card_other_person": [
+    "¿Puedo darle a otra persona una tarjeta regalo a mi nombre?",
+    "¿Puedo regalar mi tarjeta a otra persona?",
+    "¿Es posible transferir una tarjeta regalo a alguien más?",
+    "¿La tarjeta regalo puede usarla otra persona?",
+    "¿Puede otro beneficiarse de mi tarjeta regalo?",
+    "¿Se puede ceder una tarjeta regalo a otra persona?"
+  ],
+  "payment_methods_available": [
+    "¿Qué métodos de pago aceptan?",
+    "¿Qué opciones de pago están disponibles en la web?",
+    "¿Qué formas de pago puedo usar?",
+    "¿Aceptan tarjetas, Bizum o PayPal?",
+    "¿Se puede pagar por transferencia bancaria?"
+  ],
+  "payment_secure": [
+    "¿Es seguro pagar en vuestra web?",
+    "¿Qué medidas de seguridad usáis para el pago?",
+    "¿Mis datos bancarios están protegidos?",
+    "¿La pasarela de pago es segura?",
+    "¿Utilizáis cifrado SSL en los pagos?"
+  ],
+  "payment_on_delivery": [
+    "¿Puedo pagar contra reembolso?",
+    "¿Tenéis opción de pago al recibir el pedido?",
+    "¿Cobráis algo extra por el pago a la entrega?",
+    "¿Está disponible el pago contra reembolso en mi país?",
+    "¿Cómo funciona el pago al recibir el producto?"
+  ],
+  "shipping_methods": [
+    "¿Qué métodos de envío están disponibles?",
+    "¿Hacéis envíos a domicilio?",
+    "¿Puedo recoger mi pedido en tienda o punto de recogida?",
+    "¿Con qué empresas de mensajería trabajáis?",
+    "¿Qué opciones de entrega ofrecéis?"
+  ],
+  "shipping_times": [
+    "¿Cuánto tarda en llegar el pedido?",
+    "¿Cuál es el tiempo estimado de entrega?",
+    "¿En cuántos días recibiré mi compra?",
+    "¿Cuánto se demora el envío estándar?",
+    "¿Qué tiempo de espera tiene el envío exprés?"
+  ],
+  "shipping_costs": [
+    "¿Cuánto cuesta el envío?",
+    "¿El envío tiene coste adicional?",
+    "¿Cómo se calcula el precio del envío?",
+    "¿El precio del transporte varía según el peso?",
+    "¿Puedo ver los gastos de envío antes de pagar?"
+  ],
+  "shipping_tracking": [
+    "¿Cómo puedo seguir mi pedido?",
+    "¿Recibiré un número de seguimiento?",
+    "¿Dónde consulto el estado de mi envío?",
+    "¿Me avisáis cuando el pedido sale?",
+    "¿Puedo rastrear mi paquete online?"
+  ],
+  "promo_current_offers": [
+    "¿Qué promociones están activas ahora?",
+    "¿Tenéis alguna oferta disponible?",
+    "¿Qué descuentos hay actualmente?",
+    "¿Dónde puedo ver las promociones?",
+    "¿Hay alguna campaña activa?"
+  ],
+  "promo_use_coupon": [
+    "¿Cómo uso un cupón de descuento?",
+    "¿Dónde se introduce el código promocional?",
+    "¿Puedo aplicar un código en mi compra?",
+    "¿Qué tengo que hacer para usar un cupón?",
+    "¿Dónde aplico el cupón de oferta?"
+  ],
+  "promo_coupon_validity": [
+    "¿Cuánto tiempo dura un cupón?",
+    "¿Los cupones tienen fecha de caducidad?",
+    "¿Cómo sé si mi cupón sigue siendo válido?",
+    "¿Hasta cuándo puedo usar mi código?",
+    "¿Mi cupón ha expirado?"
+  ],
+  "promo_coupon_conditions": [
+    "¿Qué condiciones tienen los cupones?",
+    "¿Hay un mínimo de compra para usar el cupón?",
+    "¿Puedo usar varios cupones en un pedido?",
+    "¿El cupón sirve para cualquier producto?",
+    "¿Los cupones se aplican en rebajas?"
+  ],
+  "saludo": [
+    "Hola",
+    "Buenos días",
+    "Buenas tardes",
+    "Buenas noches",
+    "Qué tal",
+    "Que tal?",
+    "Hola, ¿qué tal?",
+    "Muy buenas"
+  ],
+  "despedida": [
+    "Adiós",
+    "Hasta luego",
+    "Nos vemos",
+    "Chao",
+    "Me voy, gracias",
+    "Gracias, adiós",
+    "Hasta la próxima"
+  ]
+
+}
